@@ -8,7 +8,6 @@ will be applied too.
 
 Example Images after being Filtered: 
 
-![Alt text] (C:\Users\deanh\OneDrive\Desktop\ProjectFolder\bridge-rgb.png?raw=true "Original Image")
 
 
 
