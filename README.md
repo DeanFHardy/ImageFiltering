@@ -20,6 +20,11 @@ Filter (GreyScale) -
 
 ![greyscale](https://user-images.githubusercontent.com/97617535/149835721-49486ddb-8345-4888-ac7d-faabf52cb526.png)
 
+Filter (Vertical_Lines) -
+
+![new bridge vertical](https://user-images.githubusercontent.com/97617535/149836736-96d865d4-c8e9-4f8a-a817-49b09d562cf2.png)
+
+
 
 
 
