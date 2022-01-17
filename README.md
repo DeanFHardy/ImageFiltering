@@ -12,6 +12,15 @@ Original Image -
 
 ![bridge-rgb](https://user-images.githubusercontent.com/97617535/149835541-42c44ee4-4da7-4333-88dc-2095004e898b.png)
 
+Filter (Sobel Horizontal) -
+
+![sobel-Hor](https://user-images.githubusercontent.com/97617535/149835713-652fdecb-780d-414b-a1f5-b365a8330310.png)
+
+Filter (GreyScale) -
+
+![greyscale](https://user-images.githubusercontent.com/97617535/149835721-49486ddb-8345-4888-ac7d-faabf52cb526.png)
+
+
 
 
 
